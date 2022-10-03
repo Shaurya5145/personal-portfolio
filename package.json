@@ -2,5 +2,24 @@
   "dependencies": {
     "express": "^4.18.1",
     "sweetalert": "^2.1.2"
-  }
+  },
+  "name": "another_pp",
+  "version": "1.0.0",
+  "description": "hy",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node js/main2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaurya5145/personal-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaurya5145/personal-portfolio/issues"
+  },
+  "homepage": "https://github.com/Shaurya5145/personal-portfolio#readme"
 }
